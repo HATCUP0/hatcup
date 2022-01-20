@@ -1,0 +1,12 @@
+# pip install -r requirements.txt
+
+# base ----------------------------------------
+tqdm~=4.61.0
+pandas
+dpu_utils
+nltk~=3.6.5
+pycocoevalcap~=1.2
+numpy~=1.19.5
+javalang~=0.13.0
+torch~=1.10.0
+fitlog~=0.9.13
